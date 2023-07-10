@@ -1,0 +1,40 @@
+/* .card-header {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.row {
+  background-color: #1b343b;
+}
+
+.card-body {
+  background-color: #d1c19d;
+  border: solid white;
+  color: white;
+  overflow: scroll;
+  background-image: linear-gradient(to right, #d1c19d, #445653);
+  text-align: center;
+  height: 390px;
+  line-height: normal;
+}
+
+.btn-primary {
+  background: url();
+  border-color: white;
+} */
+
+.maindiv{
+  background-color: #1c353c;
+  width: 100%;
+  height:fit-content;
+ position: absolute;
+ 
+}
+
+.container{
+ margin-left: 12rem;
+ margin-top: 5rem;
+  align-items: center;
+ 
+}
